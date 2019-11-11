@@ -1,0 +1,11 @@
+body{
+    font-family: 'Arvo','Serif';
+}
+.height{
+    min-width: 20vh;
+}
+.title-underline{
+    width: 200px;
+    height: 2px;
+    margin: auto;
+}
